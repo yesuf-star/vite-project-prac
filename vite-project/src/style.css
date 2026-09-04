@@ -1,0 +1,21 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+
+  margin-top: 100px;
+  background-color: dodgerblue;
+}
+
+input {
+  padding: 10px;
+  margin: 10px;
+}
+
+button {
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+p {
+  font-size: 20px;
+}
