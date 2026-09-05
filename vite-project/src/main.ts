@@ -1,7 +1,7 @@
 const app = document.querySelector<HTMLDivElement>('#app')!;
 
 app.innerHTML = `
-  <h1>My TypeScript Greating App</h1>
+  <h1>My TypeScript updated Greating App</h1>
 
   <input id="nameInput" placeholder="Enter your name">
 
