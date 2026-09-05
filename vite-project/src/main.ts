@@ -17,5 +17,4 @@ const message = document.querySelector<HTMLParagraphElement>('#message')!;
 button.addEventListener('click', () => {
   const name: string = input.value;
   message.textContent = `Hello, ${name}! 👋`;
-  const age: number = 'hello';
 });
